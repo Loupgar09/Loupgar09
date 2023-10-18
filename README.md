@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loupgar09
 - 👀 I’m interested in Video game
 - 🌱 I’m currently learning la vie
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me ...
 
 <!---
